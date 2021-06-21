@@ -6,7 +6,7 @@ index:
     title: Foundations of Program Evaluation I
     image: distribution.svg
     subtitle: Regression analysis for the study of program impact.
-    
+ 
 info: 
  program_title: Program Evaluation and Data Analytics
  program_website: 
@@ -20,7 +20,7 @@ info:
  class_meets_where:  'https://asu.zoom.us/j/84019158609'
  review_sessions_when: Friday, 12:30pm AZ 
  review_sessions_where: 'https://asu.zoom.us/j/84019158609'
- discussion_board_url: 'https://ds4ps.org/cpp-523-sum-2021/help/'
+ discussion_board_url: '/help/'
 
 instructor:
 -  name: David Schlinkert
@@ -35,7 +35,18 @@ instructor:
    office_hours_time: By appointment
    office_hours_location:  Zoom
    office_hours_app_url:  'mailto:david.schlinkert@asu.edu'
-   
+-  name: Jon Pratt
+   title: Teaching Assistant
+   email: fake@asu.edu
+   office_location: virtual
+   website_url: 
+   github_url: 'https://github.com/jbpratt1' 
+   twitter_url: 
+   scholar_url: 
+   linked_in_url: 
+   office_hours_time: By appointment
+   office_hours_location:  Zoom
+   office_hours_app_url:  'mailto:fake@asu.edu'   
 
 textbooks:
 - title: 'Applied Regression: An Introduction'
