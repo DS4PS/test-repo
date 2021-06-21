@@ -25,7 +25,7 @@ final:
   exam-date:  'Mon June 20  - Thurs June 24' 
 
 pdf-root-url:
-  "https://github.com/DS4PS/cpp-523-sum-2021"
+  "https://github.com/DS4PS/test-repo"
 ---
 
 <!--- 
