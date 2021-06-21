@@ -8,13 +8,13 @@
 github_info:
     username:          DS4PS 
     branch:            master
-    website-repo:      cpp-template
-    course-repo:       cpp-template
+    website-repo:      test-repo
+    course-repo:       test-repo
 
 # Site subpath, e.g. /blog
 url :               "https://ds4ps.github.io"
-baseurl:            "/cpp-template"
-course_url:         "http://ds4ps.org/cpp-template/"
+baseurl:            "/test-repo"
+course_url:         "http://ds4ps.org/test-repo/"
 
 
 # NAVIGATION BAR
